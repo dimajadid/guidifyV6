@@ -102,10 +102,10 @@
       },
       "list": {
         "_comment": "type = default, back_next",
-        "type": "back_next",
+        "type": "default",
         "item": {
           "_comment": "type = image, text, card",
-          "type": "card",
+          "type": "image",
           "loader": {
             "enabled": false,
             "duration": 4000
