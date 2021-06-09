@@ -12,11 +12,11 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
-      "mode_ads_native": "admob",
-      "mode_ads_mediumrect": "admob",
-      "mode_ads_rewarded": "admob",
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
+      "mode_ads_mediumrect": "facebook",
+      "mode_ads_rewarded": "facebook",
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_id": [
@@ -90,9 +90,9 @@
       },
       "start": {
         "enabled": true,
-        "count": 1,
+        "count": 2,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 6000
         }
       },
@@ -114,7 +114,7 @@
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": true,
+        "native_ad": false,
         "mediumrect_ad": false,
         "banner_ad": true,
         "interstitial_ad": true
