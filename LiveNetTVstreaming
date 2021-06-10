@@ -89,11 +89,11 @@
         "duration": 8000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "count": 2,
         "loader": {
           "enabled": false,
-          "duration": 6000
+          "duration": 5000
         }
       },
       "main": {
@@ -107,8 +107,8 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
-            "duration": 4000
+            "enabled": false,
+            "duration": 5000
           }
         }
       },
