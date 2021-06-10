@@ -102,7 +102,7 @@
       },
       "list": {
         "_comment": "type = default, back_next",
-        "type": "back_next",
+        "type": "default",
         "item": {
           "_comment": "type = image, text, card",
           "type": "image",
