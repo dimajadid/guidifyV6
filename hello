@@ -12,11 +12,11 @@
     },
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
-      "mode_ads_mediumrect": "facebook",
-      "mode_ads_rewarded": "facebook",
+      "mode_ads_banner": "admob",
+      "mode_ads_interstitial": "admob",
+      "mode_ads_native": "admob",
+      "mode_ads_mediumrect": "admob",
+      "mode_ads_rewarded": "admob",
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_id": [
@@ -86,7 +86,7 @@
     },
     "activities": {
       "splash": {
-        "duration": 10000
+        "duration": 8000
       },
       "start": {
         "enabled": true,
@@ -102,20 +102,20 @@
       },
       "list": {
         "_comment": "type = default, back_next",
-        "type": "default",
+        "type": "back_next",
         "item": {
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 4000
           }
         }
       },
       "item": {
         "type": "text, webview, richtext",
-        "native_ad": false,
-        "mediumrect_ad": false,
+        "native_ad": true,
+        "mediumrect_ad": true,
         "banner_ad": true,
         "interstitial_ad": true
       }
@@ -138,11 +138,7 @@
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test title 2",
-        "description": "Test description 2",
-        "locker": {
-          "_comment": "type=rewarded_ad",
-          "type": "rewarded_ad"
-        }
+        "description": "Test description 2"
       },
       {
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
@@ -201,7 +197,11 @@
         "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
         "title": "Test webview 14",
         "description": "Test description webview 1",
-        "url": "https://koralivenew.com/matchs"
+        "url": "https://koralivenew.com/matchs",
+        "locker": {
+          "_comment": "type=rewarded_ad",
+          "type": "rewarded_ad"
+        }
       }
     ]
   }
