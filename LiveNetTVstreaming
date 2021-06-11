@@ -124,58 +124,93 @@
   "data": {
     "items": [
       {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
-        "description": ""
-      },
-      {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
-        "description": ""
-      },
-      {
         "type": "native_ad"
       },
       {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/live-score.jpg",
+        "title": "Live Score",
         "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
       },
       {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Champions-Leaque.jpg",
+        "title": "CHAMPIONS LEAGUE",
         "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1005"
       },
       {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/europaLeague.jpg",
+        "title": "EUROPA LEAGUE",
         "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1007"
       },
       {
-        "type": "native_ad"
-      },
-      {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Premier-League.jpg",
+        "title": "ENGLAND: PREMIER LEAGUE",
         "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1204"
       },
       {
-        "image": "https://www.livenettv.vip/wp-content/uploads/2020/11/Live-NetTV-1-1024x576-1.png",
-        "title": "",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Spain.jpg",
+        "title": "SPAIN",
         "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1399"
       },
       {
-        "type": "native_ad"
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Italy.jpg",
+        "title": "ITALY: SERIE A",
+        "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1269"
       },
       {
-        "image": "https://lh3.googleusercontent.com/EZt11LuetTjJNM75ZTnJ2Tztb9zPhriZoqkZo5DlnxdkxouG2HfYb_T8PLdcvDPkKiY=h310",
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Euro.jpg",
+        "title": "EURO",
+        "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1001"
+      },
+      {
+       "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyB.jpg",
+        "title": "ITALY: SERIE B",
+        "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1265"
+
+      },
+      {
+       "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Germany.jpg",
+        "title": "",
+        "description": "GERMANY: BUNDESLIGA"
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1229"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyD.jpg",
+        "title": "ITALY: SERIE D",
+        "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1263"
+      },
+      {
+        "type": "webview",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Argentina.jpg",
+        "title": "ARGENTINA: COPA DE LA LIGA PROFESIONAL",
+        "description": ""
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1081"
+      },
+      {
+        "image": "https://lh3.googleusercontent.com/XnPtYrEUgXE-IYs-XLIgoY5WtxBUXhCLEfTvn5pH1qT3WjO4dNg1UCnsNXIrNn1XfWA=h310",
         "title": "What is Live NetTV?",
         "description": "Live NetTV is one of the best Android Application which provides live streaming of many TV channels. Live NetTV APK provides almost every channel on earth. The application also provides the option to chose quality. You can select SD and HD Quality as per your requirement.Live NetTV has all the categories of channels such as Entertainment, Sports, News, Kids, Action, Movies, etc. You can also select your TV channel based on the country you live in. If you want to watch movies and TV shows then try Cyberflix app and Cinema HD. If you want to watch only sports then try Thop TV.Live NetTV is not available on the Google Play store because of Google’s policy."
+      },
+      {
+        "type": "native_ad"
       }
     ]
   }
