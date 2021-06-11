@@ -137,7 +137,7 @@
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Champions-Leaque.jpg",
         "title": "CHAMPIONS LEAGUE",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1005"
       },
       {
