@@ -89,10 +89,10 @@
         "duration": 8000
       },
       "start": {
-        "enabled": false,
-        "count": 2,
+        "enabled": true,
+        "count": 1,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
@@ -107,7 +107,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 5000
           }
         }
@@ -115,7 +115,7 @@
       "item": {
         "type": "text, webview, richtext",
         "native_ad": true,
-        "mediumrect_ad": true,
+        "mediumrect_ad": false,
         "banner_ad": true,
         "interstitial_ad": true
       }
