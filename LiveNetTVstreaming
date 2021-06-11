@@ -11,12 +11,12 @@
       }
     },
     "ads": {
-      "enabled": false,
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
-      "mode_ads_native": "admob",
-      "mode_ads_mediumrect": "admob",
-      "mode_ads_rewarded": "admob",
+      "enabled": true,
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
+      "mode_ads_mediumrect": "facebook",
+      "mode_ads_rewarded": "facebook",
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
         "admob_interstitial_id": [
