@@ -130,7 +130,7 @@
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/live-score.jpg",
         "title": "Live Score",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=live"
       },
       {
@@ -144,42 +144,42 @@
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/europaLeague.jpg",
         "title": "EUROPA LEAGUE",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1007"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Premier-League.jpg",
         "title": "ENGLAND: PREMIER LEAGUE",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1204"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Spain.jpg",
         "title": "SPAIN",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1399"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Italy.jpg",
         "title": "ITALY: SERIE A",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1269"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Euro.jpg",
         "title": "EURO",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1001"
       },
       {
        "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyB.jpg",
         "title": "ITALY: SERIE B",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1265"
 
       },
@@ -187,21 +187,21 @@
        "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Germany.jpg",
         "title": "",
-        "description": "GERMANY: BUNDESLIGA"
+        "description": "GERMANY: BUNDESLIGA",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1229"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/italyD.jpg",
         "title": "ITALY: SERIE D",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1263"
       },
       {
         "type": "webview",
         "image": "https://raw.githubusercontent.com/dimajadid/images/main/Argentina.jpg",
         "title": "ARGENTINA: COPA DE LA LIGA PROFESIONAL",
-        "description": ""
+        "description": "",
         "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1081"
       },
       {
