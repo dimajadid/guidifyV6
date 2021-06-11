@@ -199,10 +199,10 @@
       },
       {
         "type": "webview",
-        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Argentina.jpg",
-        "title": "ARGENTINA: COPA DE LA LIGA PROFESIONAL",
+        "image": "https://raw.githubusercontent.com/dimajadid/images/main/Saudi.jpg",
+        "title": "Saudi",
         "description": "",
-        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1081"
+        "url": "http://www.pita.it/apiFootballScoresV3/index.php?idLeague=1368"
       },
       {
         "image": "https://lh3.googleusercontent.com/XnPtYrEUgXE-IYs-XLIgoY5WtxBUXhCLEfTvn5pH1qT3WjO4dNg1UCnsNXIrNn1XfWA=h310",
