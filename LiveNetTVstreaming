@@ -11,7 +11,7 @@
       }
     },
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
