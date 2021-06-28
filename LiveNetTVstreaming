@@ -90,7 +90,7 @@
       },
       "start": {
         "enabled": true,
-        "count": 1,
+        "count": 2,
         "loader": {
           "enabled": true,
           "duration": 5000
