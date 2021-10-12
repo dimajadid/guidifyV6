@@ -11,7 +11,7 @@
       }
     },
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
@@ -89,7 +89,7 @@
         "duration": 8000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "count": 2,
         "loader": {
           "enabled": false,
@@ -105,9 +105,9 @@
         "type": "back_next",
         "item": {
           "_comment": "type = image, text, card",
-          "type": "image",
+          "type": "card",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
